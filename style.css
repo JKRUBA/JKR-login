@@ -1,0 +1,31 @@
+
+    .container{
+        color: white;
+        border-radius: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 80vh;
+        
+    
+       
+    }
+    body{
+        background-image: url("https://media.istockphoto.com/id/1219872152/vector/abstract-creative-background.jpg?s=612x612&w=0&k=20&c=hqNERUEmT9KgPCis9ZvaxemOSfFWR-oKPe3PA-nFjkY=");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        
+    }
+    a{
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
+        text-decoration: none;
+        margin-left: 28%;
+    }
+    button{
+        padding: 5px 25px;
+        margin-left: 20%;
+
+    }
